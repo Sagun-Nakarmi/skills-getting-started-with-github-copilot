@@ -1,0 +1,23 @@
+{
+  "name": "skills-getting-started-with-github-copilot",
+  "version": "1.0.0",
+  "description": "A project to demonstrate skills in GitHub and Copilot",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/skills-getting-started-with-github-copilot.git"
+  },
+  "keywords": [
+    "github",
+    "copilot",
+    "skills"
+  ],
+  "author": "Your Name",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
